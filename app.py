@@ -56,7 +56,7 @@ st.set_page_config(
 )
 
 st.title(
-    "🚀 Autonomous AI Project Manager"
+    "Autonomous AI Project Manager"
 )
 
 st.caption(
