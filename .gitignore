@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env/
+
+# Secrets
+.env
+secrets.toml
+
+# Streamlit
+.streamlit/secrets.toml
+
+# VS Code
+.vscode/
+
+# PDF Reports
+*.pdf
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Cache
+.cache/
+
+# Python Packaging
+build/
+dist/
+*.egg-info/
+
+# Research Memory
+memory/*.json
