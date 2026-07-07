@@ -1,4 +1,8 @@
-# 🚀 Autonomous AI Project Manager
+<img width="775" height="368" alt="image" src="https://github.com/user-attachments/assets/22fc0068-ff5e-45f4-82a6-efa4c0641113" />
+<img width="570" height="369" alt="image" src="https://github.com/user-attachments/assets/77f9fb81-6b50-464b-a3fc-ebd989ae67dd" />
+
+
+#  Autonomous AI Project Manager
 
 ### AI-Powered Multi-Agent Project Planning Platform
 
